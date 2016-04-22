@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\pre-dexed\debug\classes-0a76618af5f0ab894b3f95fbacbfe81e729a7e8a.jar" />
+    </item>
+    <item
+        jar="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\pre-dexed\debug\classes-b4b7e01e965506a473f5cf1aae80d96c0c2df15a.jar" />
+    </item>
+    <item
+        jar="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\pre-dexed\debug\classes-e1f33a84d8fba85db187f01a7cffa920e75515b6.jar" />
+    </item>
+    <item
+        jar="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\pre-dexed\debug\classes-546a3a313f8bec10c0ec9b4204dc2ea6a232ca62.jar" />
+    </item>
+    <item
+        jar="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\pre-dexed\debug\classes-f6a66fa0432e09ef0d2231700e4d895771068b2e.jar" />
+    </item>
+    <item
+        jar="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\pre-dexed\debug\classes-e1091fc406d7ad47f1d3509cef1fc387ccf0b189.jar" />
+    </item>
+    <item
+        jar="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\pre-dexed\debug\classes-b15806a128eacd0ea22f7312dfe25ef2ee0c7cd7.jar" />
+    </item>
+    <item
+        jar="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\pre-dexed\debug\classes-440a909b9f310028946f85cd8fbde7302d60e6ad.jar" />
+    </item>
+    <item
+        jar="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\pre-dexed\debug\classes-077ccf3a04f49b9df64d1ae2bee8387ff4de7085.jar" />
+    </item>
+    <item
+        jar="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1a57337a520bf40b9ad1e074cb780527dffa1aac">
+        <dex dex="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\pre-dexed\debug\classes-a768da46a1f7b8826bdecdda306e78d69d866c1a.jar" />
+    </item>
+    <item
+        jar="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
+        <dex dex="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\pre-dexed\debug\classes-8af254ece2cd6525348591b81908fe9368f7c4ee.jar" />
+    </item>
+    <item
+        jar="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="076c7d9e22cc325b8008ff799e0c06dfb8eefdf3">
+        <dex dex="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-7be420c40125d7a17a92667ce76180ebf0fea7e9.jar" />
+    </item>
+    <item
+        jar="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-3b6ea626997ee528c9b80c8157d3d0cbdd46169b.jar" />
+    </item>
+    <item
+        jar="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\pre-dexed\debug\classes-6443c54a007f19b288bd7e1a65dc393da59a9190.jar" />
+    </item>
+    <item
+        jar="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\pre-dexed\debug\classes-484fa5695928608ab0a8fe988e5cb9dd8f72e0e8.jar" />
+    </item>
+    <item
+        jar="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\pre-dexed\debug\classes-ff3303d6407bce3fad3c318bcce8e2a317ae7dce.jar" />
+    </item>
+    <item
+        jar="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\pre-dexed\debug\classes-5688a19a2c74e6e76026cdd031750e3b22c2b930.jar" />
+    </item>
+    <item
+        jar="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="62209cacb78ffe64f71ed8527fd08d8fbb9fd433">
+        <dex dex="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\pre-dexed\debug\classes-336167afd4e0f944fcfec6c0e9349c2b8fed9b6b.jar" />
+    </item>
+    <item
+        jar="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\pre-dexed\debug\classes-ffbd352319f6cefa4688b890a718a2c13cdb8cec.jar" />
+    </item>
+    <item
+        jar="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\pre-dexed\debug\classes-a070178af4dc01c89ad1b1be773c5879be2634fd.jar" />
+    </item>
+    <item
+        jar="C:\Users\jb990_000\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-abdf28151621e98da3f9158b7a0d7d4f82a8adda.jar" />
+    </item>
+    <item
+        jar="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\pre-dexed\debug\classes-029d02f0107e442bcfb625baf51aed5408318e15.jar" />
+    </item>
+    <item
+        jar="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\pre-dexed\debug\classes-d2ffbeb5a6d06e6019acb2ecb6fbe7b610b568da.jar" />
+    </item>
+    <item
+        jar="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\pre-dexed\debug\classes-d973f41bf7fb89141a9f09914c102d1f23b4300e.jar" />
+    </item>
+    <item
+        jar="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\pre-dexed\debug\classes-3359de3dcceab67ba9170533bfcb3d1629984a43.jar" />
+    </item>
+    <item
+        jar="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\pre-dexed\debug\classes-868e096cffb510ce379d059ae2a382001bb7edd3.jar" />
+    </item>
+    <item
+        jar="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\pre-dexed\debug\classes-1404b1571d4580079b968e58ba417150d24b91b7.jar" />
+    </item>
+    <item
+        jar="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\pre-dexed\debug\classes-92a6064424cce0601504bac16cea84ec952ff25d.jar" />
+    </item>
+    <item
+        jar="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-c7e9b76af69ed0d13484a1b7a33a13780e6415ca.jar" />
+    </item>
+    <item
+        jar="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\pre-dexed\debug\classes-da1bf5c11c34561e5a43356f21118f7520724b20.jar" />
+    </item>
+    <item
+        jar="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\pre-dexed\debug\classes-42789135d5f58204059f70554bc77fa04d27726c.jar" />
+    </item>
+    <item
+        jar="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\pre-dexed\debug\classes-dc69121731ad48b833e956150b9c965a1f4c99d2.jar" />
+    </item>
+    <item
+        jar="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="C:\Android Studio Projects\android-Camera2Basic\Application\build\intermediates\pre-dexed\debug\classes-0724b085e927fa482705b7ffd6611ca3fc1ccc43.jar" />
+    </item>
+
+</items>
